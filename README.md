@@ -19,11 +19,6 @@
 ### 9. 늦은 저녁… 남은 이야기 서로 나누기 - 10분
 ### 10. 도전~! 다 함께 사진~!
 
-<img width="901" height="837" alt="image" src="https://github.com/user-attachments/assets/2c47298c-55d5-49d0-a86a-44cc56ed5f68" />
-<img width="910" height="828" alt="image" src="https://github.com/user-attachments/assets/fbbba457-24d5-4b22-a0a2-06dc7a67752c" />
-
-
-
 ### 🔗 발표자 모집
 발표신청 : https://forms.office.com/r/6ZyrDfHyEg
 ```
@@ -48,3 +43,9 @@ Korea MCT 온라인 벙개는 매월 진행하고자 하는 이벤트이며, 해
 - **확인하셨나요?**: https://aka.ms/mctlounge
 ### 7월 MCT Program Update 미팅
 - **피드백**: https://forms.office.com/r/xRewDFEpbs
+
+
+
+<img width="901" height="837" alt="image" src="https://github.com/user-attachments/assets/2c47298c-55d5-49d0-a86a-44cc56ed5f68" />
+<img width="910" height="828" alt="image" src="https://github.com/user-attachments/assets/fbbba457-24d5-4b22-a0a2-06dc7a67752c" />
+
